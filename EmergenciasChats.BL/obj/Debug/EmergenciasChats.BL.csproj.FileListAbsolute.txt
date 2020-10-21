@@ -1,0 +1,16 @@
+C:\Users\Antonio\Desktop\EmergenciasChats\EmergenciasChats.BL\bin\Debug\EmergenciasChats.BL.dll
+C:\Users\Antonio\Desktop\EmergenciasChats\EmergenciasChats.BL\bin\Debug\EmergenciasChats.BL.pdb
+C:\Users\Antonio\Desktop\EmergenciasChats\EmergenciasChats.BL\bin\Debug\EmergenciasChats.DAL.dll
+C:\Users\Antonio\Desktop\EmergenciasChats\EmergenciasChats.BL\bin\Debug\EmergenciasChats.EL.dll
+C:\Users\Antonio\Desktop\EmergenciasChats\EmergenciasChats.BL\bin\Debug\FireSharp.dll
+C:\Users\Antonio\Desktop\EmergenciasChats\EmergenciasChats.BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Antonio\Desktop\EmergenciasChats\EmergenciasChats.BL\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Antonio\Desktop\EmergenciasChats\EmergenciasChats.BL\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Antonio\Desktop\EmergenciasChats\EmergenciasChats.BL\bin\Debug\EmergenciasChats.DAL.pdb
+C:\Users\Antonio\Desktop\EmergenciasChats\EmergenciasChats.BL\bin\Debug\EmergenciasChats.EL.pdb
+C:\Users\Antonio\Desktop\EmergenciasChats\EmergenciasChats.BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Antonio\Desktop\EmergenciasChats\EmergenciasChats.BL\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Antonio\Desktop\EmergenciasChats\EmergenciasChats.BL\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Antonio\Desktop\EmergenciasChats\EmergenciasChats.BL\obj\Debug\EmergenciasChats.BL.csprojResolveAssemblyReference.cache
+C:\Users\Antonio\Desktop\EmergenciasChats\EmergenciasChats.BL\obj\Debug\EmergenciasChats.BL.dll
+C:\Users\Antonio\Desktop\EmergenciasChats\EmergenciasChats.BL\obj\Debug\EmergenciasChats.BL.pdb
