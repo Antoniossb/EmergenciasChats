@@ -1,5 +1,0 @@
-C:\Users\Antonio\Desktop\EmergenciasChats\EmergenciasChats.EL\bin\Debug\EmergenciasChats.EL.dll
-C:\Users\Antonio\Desktop\EmergenciasChats\EmergenciasChats.EL\bin\Debug\EmergenciasChats.EL.pdb
-C:\Users\Antonio\Desktop\EmergenciasChats\EmergenciasChats.EL\obj\Debug\EmergenciasChats.EL.dll
-C:\Users\Antonio\Desktop\EmergenciasChats\EmergenciasChats.EL\obj\Debug\EmergenciasChats.EL.pdb
-C:\Users\Antonio\Desktop\EmergenciasChats\EmergenciasChats.EL\obj\Debug\EmergenciasChats.EL.csprojResolveAssemblyReference.cache
